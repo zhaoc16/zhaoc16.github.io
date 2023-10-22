@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Washignton and Lee University, 2016
+* B.A. in Math, Washignton and Lee University, 2016
+* Ph.D in Quantitative Biosciences, Georgian Tech University, 2022
+* M.D. - Mayo Clinic Alix School of Medicine, 2026 (pending)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Brown Lab @ GaTech: Graduate Research Assistant
+  * Georgia Tech
+  * Supervisor: Sam P. Brown, Ph.D.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Chia Lab @ Mayo Clinic: Research Assistant (sort of)
+  * Mayo Clinic
+  * Supervisor: Nick Chia, Ph.D.
+
+* Sung Lab @ Mayo Clinic: Research Assistant (sort of)
+  * Mayo Clinic
+  * Supervisor: Jaeyun Sung, Ph.D.
   
-Skills
+Skills & Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Copy/Paste from Stack Overflow into ChatGPT
+* Coding
+  * R
+  * Matlab
+  * Python
+* Microbiomics & Metabolomics
+* AI/ML
 
 Publications
 ======
@@ -56,4 +60,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 3 different slack teams
+* Co-Lead, MCASOM Oncology Interest Group
+* I play keys in a band called "Kannan Not Conan"
